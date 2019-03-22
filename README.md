@@ -2,7 +2,7 @@
 
 
 
-This open source work is supported by [Bunch.ai](https://bunch.ai/)
+_This open source work is supported by [Bunch.ai](https://bunch.ai/)_
 
 <img src="https://bunch.ai/wp-content/themes/bunch/images/bunch-logo-rgb.svg" width="240">
 
@@ -21,6 +21,8 @@ Follow Bunch.ai Twitter [account](https://twitter.com/bunch_hq?lang=en) for upda
 - to encourage & empower you to build the best culture ever!
 
 ### **How do I get started?**
+
+We started with a few topics that we like to explore and learn about the most. However, we dream big, and wish for this library to become a temple of knowledge around psychology, teams, organisational design, data science, people analytics, leadership, and anything around it. As you will notice some topics are covered a bit more in depth than others. This is because we want this library to also grow outside of Bunch. We want it to be alive and never stop growing. So we welcome you to read, comment, add, change, and develop this project further with us :).
 
 ### **Contribution Guide**
 
