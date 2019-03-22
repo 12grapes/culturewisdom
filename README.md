@@ -24,9 +24,7 @@ Follow Bunch.ai Twitter [account](https://twitter.com/bunch_hq?lang=en) for upda
 
 ### **Contribution Guide**
 
-
-
-## Contents
+## Content
 
 ### [Culture](https://github.com/12grapes/culturewisdom/blob/master/culture.md)
 
