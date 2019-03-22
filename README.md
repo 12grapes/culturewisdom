@@ -24,6 +24,14 @@ Follow Bunch.ai Twitter [account](https://twitter.com/bunch_hq?lang=en) for upda
 
 ### **Contribution Guide**
 
+#### Our Pledge & Standards
+We support and nurture psychologically safe environment. This means anyone can contribute to this project, regardless of level of knowledge or experience. We pledge to make this community a welcoming one for everyone, regardless of any demographic characteristics, or personal appearance.
+
+To enable this kind of community we want you to:
+- be respectful of differing viewpoints and experience
+- open to constructive criticism (we hope you are here to learn from or teach others :))
+- show empathy towards other community members
+
 ## Content
 
 ### [Culture](https://github.com/12grapes/culturewisdom/blob/master/culture.md)
