@@ -1,4 +1,4 @@
-# Culture musing and wisdom
+# Culture musings and wisdom
 
 
 
@@ -7,7 +7,7 @@ _This open source work is supported by [Bunch.ai](https://bunch.ai/)_
 <img src="https://bunch.ai/wp-content/themes/bunch/images/bunch-logo-rgb.svg" width="240">
 
  
-***Culture musing and wisdom*** is a content library created by [Bunch.ai](https://bunch.ai/) team to spread the knoweledge about psychology and data science.
+***Culture musings and wisdom*** is a content library created by [Bunch.ai](https://bunch.ai/) team to spread the knoweledge about psychology and data science.
 
 Follow Bunch.ai Twitter [account](https://twitter.com/bunch_hq?lang=en) for updates and check out our [blog](https://bunch.ai/blog/) for new content.
 
